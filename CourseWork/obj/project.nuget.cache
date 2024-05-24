@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "i9ux6Vo83s9QilxAmOIpjWHaB5RuoTfdUDi5TAu6nCWT0VxbNO62pJ3ulqvlgBeXWp9O1pBkxsiCmrG8JkGmGQ==",
+  "success": true,
+  "projectFilePath": "D:\\university\\4sem\\курсач\\CourseWork\\CourseWork.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ilgov\\.nuget\\packages\\documentformat.openxml\\3.0.2\\documentformat.openxml.3.0.2.nupkg.sha512",
+    "C:\\Users\\ilgov\\.nuget\\packages\\documentformat.openxml.framework\\3.0.2\\documentformat.openxml.framework.3.0.2.nupkg.sha512",
+    "C:\\Users\\ilgov\\.nuget\\packages\\skiasharp\\2.88.7\\skiasharp.2.88.7.nupkg.sha512",
+    "C:\\Users\\ilgov\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.7\\skiasharp.nativeassets.macos.2.88.7.nupkg.sha512",
+    "C:\\Users\\ilgov\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.7\\skiasharp.nativeassets.win32.2.88.7.nupkg.sha512",
+    "C:\\Users\\ilgov\\.nuget\\packages\\system.io.packaging\\8.0.0\\system.io.packaging.8.0.0.nupkg.sha512",
+    "C:\\Users\\ilgov\\.nuget\\packages\\winforms.datavisualization\\1.9.2\\winforms.datavisualization.1.9.2.nupkg.sha512"
+  ],
+  "logs": []
+}
